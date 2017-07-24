@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "538958140776",
+    "firebase_url": "https://grand-1291d.firebaseio.com",
+    "project_id": "grand-1291d",
+    "storage_bucket": "grand-1291d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538958140776:android:2fbf74a6f4ec6c82",
+        "android_client_info": {
+          "package_name": "com.example.phuwarin.grand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538958140776-0t1e4vf8dl5t7hg6jom3pvdt98dsopkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phuwarin.grand",
+            "certificate_hash": "1D960AFBDE4C0F288E9EC2E8D473B38708ED8E4B"
+          }
+        },
+        {
+          "client_id": "538958140776-g5soa7jpqlbkktc82i9c8scq8bb7plip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA12Xj4KNAvQlaQ3iBiikTXSXnocC117AI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538958140776-g5soa7jpqlbkktc82i9c8scq8bb7plip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
